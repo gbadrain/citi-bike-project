@@ -5,7 +5,6 @@ function createMap(bikeStations) {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   });
 
-
   // Create a baseMaps object to hold the streetmap layer.
   let baseMaps = {
     "Street Map": streetmap
